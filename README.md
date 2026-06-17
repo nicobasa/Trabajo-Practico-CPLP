@@ -36,4 +36,3 @@ program miprograma {
 - Operaciones invalidas entre tipos no compatibles.
 - Division por cero.
 - Condiciones de `if` y `for` obligatoriamente booleanas.
-- Limite de seguridad para evitar ciclos infinitos en `for`.
