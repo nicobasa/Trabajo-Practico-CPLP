@@ -1,5 +1,9 @@
 # Grupo O - TP ANTLR
 
+## Integrantes
+- Nicolas Ariel Basalo - 46358143
+- Candela Fernandez - 43405646
+
 ## Variante asignada
 Variante 2: `for`, iteracion con variable de control.
 
